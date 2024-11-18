@@ -18,7 +18,7 @@
 
   ## UI/UX Design Planning
     ## Design Goals  
-    **Easy Navigation**: Users should quickly find and book properties.  
+    - **Easy Navigation**: Users should quickly find and book properties.  
     - **Responsive Design**: Works on all devices—desktop, tablet, and mobile.  
     - **Modern Look**: Clean and visually appealing interface.  
     - **Accessibility**: Inclusive for all users, including those with disabilities.  
