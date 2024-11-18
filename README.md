@@ -17,7 +17,7 @@
   - Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
   ## UI/UX Design Planning
-    ## Design Goals  
+    ### Design Goals  
     - **Easy Navigation**: Users should quickly find and book properties.  
     - **Responsive Design**: Works on all devices—desktop, tablet, and mobile.  
     - **Modern Look**: Clean and visually appealing interface.  
