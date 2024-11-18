@@ -17,18 +17,18 @@
   - Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
   ## UI/UX Design Planning
-    ### Design Goals  
+    ## Design Goals  
     - **Easy Navigation**: Users should quickly find and book properties.  
     - **Responsive Design**: Works on all devices—desktop, tablet, and mobile.  
     - **Modern Look**: Clean and visually appealing interface.  
     - **Accessibility**: Inclusive for all users, including those with disabilities.  
 
-    ### Key Features  
+    ## Key Features  
     - **Property Listings**: Display available properties with search and filter options.  
     - **Detailed Property View**: Show property details, pricing, and booking options.  
     - **Simple Checkout**: Streamlined process for booking a property.
 
-    ### Main Pages  
+    ## Main Pages  
   
     | **Page**                           | **Description**                                                        | **Key Features**                                                                 |  
     |----------------------------------- |------------------------------------------------------------------------|----------------------------------------------------------------------------------|  
@@ -37,7 +37,7 @@
     | **Page 3: Checkout**               | A streamlined booking process for the selected property, allowing users to choose dates, number of guests, and finalize the booking. | Booking summary, date picker, guest selector, payment options, and confirmation. |  
 
 
-    ### Importance of a User-Friendly Design  
+    ## Importance of a User-Friendly Design  
     A user-friendly design is essential in a booking system to:  
     - **Ease of Use**: It helps users quickly find and book properties.  
     - **More Bookings**: A simple and smooth experience encourages users to complete their bookings.  
@@ -45,14 +45,14 @@
     - **Accessibility**: Ensures the platform is usable by a diverse audience.
 
 
-  #### Color Styles  
+  ### Color Styles  
     *The color palette is still being finalized. The final colors will align with the overall theme and branding of the project. Below are placeholder colors for reference:*  
       - **Primary Color**: #FF5A5F (Tentative)  
       - **Secondary Color**: #00A699 (Tentative)  
       - **Background Color**: #F7F7F7 (Tentative)  
       - **Text Color**: #484848 (Tentative)  
       
-  #### Typography  
+  ### Typography  
     *The typography choices are still under consideration. The final fonts will be selected to ensure readability and alignment with the project's design goals. Below are placeholder fonts for reference:*  
       - **Font Family**:  
         - Main: `Roboto` (Tentative)  
@@ -120,7 +120,7 @@
   ## UI Component Patterns  
   This section describes the main UI components that will be built for the AirBnB Clone project.
 
-    ### Key UI Components  
+    ## Key UI Components  
     
       1. **Navbar**  
          - **Purpose**: A navigation bar at the top of each page for easy access to important sections (e.g., Home, Search, Login/Signup).  
@@ -143,7 +143,7 @@
            - Social media icons  
            - Copyright info  
       
-    ### Why These Components Matter  
+    ## Why These Components Matter  
     Using reusable and consistent components will:  
     - **Ensure Consistency**: Keeps the design the same throughout the site.  
     - **Save Time**: Reusable components help developers work faster.  
